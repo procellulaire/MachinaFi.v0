@@ -1,4 +1,4 @@
-
+==========================================================================
 BCH-1 Hackcelerator MVP 
 
 This is a Statement of Work (SOW) designed for a Senior Architect executing a hackathon speed-run. 
@@ -12,7 +12,26 @@ Objective: Build a functional MVP of MachinaVault (Smart Contract) and Machina-D
 Tools: Google AI Studio (Gemini 1.5 Pro), CashScript, Next.js, Chaingraph.
 Timeline: 4 Phases (Hackathon Sprint).
 
+==========================================================================
 
+Project SOW: MachinaFi – Zero-Trust Agent Liquidity Protocol
+Objective: Build a functional MVP of MachinaVault (Smart Contract) and Machina-Dashboard (UI) on Bitcoin Cash.
+Tools: Google AI Studio (Gemini 1.5 Pro), CashScript, Next.js, Chaingraph.
+Timeline: 4 Phases (Hackathon Sprint).
+
+Phase 0: The "Context Injection" (Setup)
+Before writing code, we must prime Google AI Studio with the correct context. Gemini knows Solidity well, but CashScript (BCH) requires specific framing regarding UTXOs and "Covenants."
+
+Phase 1: The Core Contract (MachinaVault.cash)
+Goal: Create the "Smart Vault" that holds funds and enforces the Zero Trust rules.
+
+
+
+
+
+
+==========================================================================
+==========================================================================
 
 ## Run Locally
 
