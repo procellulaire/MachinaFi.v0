@@ -1,0 +1,5 @@
+{
+  "name": "MachinaFi",
+  "description": "A Zero-Trust Bitcoin Cash Protocol Simulator where AI Agents trade under strict CashScript covenants.",
+  "requestFramePermissions": []
+}
