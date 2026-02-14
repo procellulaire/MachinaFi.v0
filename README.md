@@ -1,6 +1,5 @@
 
-
-Studio: https://ai.studio/apps/drive/1jOp4awdJbW9TrnZPef9jIib6G7B_tBg3
+BCH-1 Hackcelerator MVP 
 
 ## Run Locally
 
