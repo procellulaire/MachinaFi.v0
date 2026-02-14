@@ -25,12 +25,13 @@ Before writing code, we must prime Google AI Studio with the correct context. Ge
 Phase 1: The Core Contract (MachinaVault.cash)
 Goal: Create the "Smart Vault" that holds funds and enforces the Zero Trust rules.
 
+Phase 1.1 , Human in the loop, we STOP , we need to revalidate and refactor some stuff 
+
+Review Output: Ensure it uses tx.inputs[this.activeInputIndex].value for solvency checks.
+
+Refinement: Ask AI Studio: "Refactor executeTrade to allow for a 'Flash Loan' style logic where the output index 0 must be the targetContract and output index 1 must be the MachinaVault with the original balance.
 
 
-
-
-
-==========================================================================
 ==========================================================================
 
 ## Run Locally
